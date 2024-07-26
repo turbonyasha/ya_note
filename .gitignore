@@ -25,3 +25,5 @@ htmlcov/
 .coverage.*
 coverage.xml
 *.cover
+
+план тестирования yanote.txt
